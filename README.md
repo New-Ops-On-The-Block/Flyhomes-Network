@@ -1,1 +1,1 @@
-Material required to prepare for upcoming project
+Materials required to prepare for upcoming project
