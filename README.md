@@ -5,6 +5,6 @@ Linux based file server to store information.
 
 - Graceson Langston
 - Zak Derrick
-- MGLedesma
+- MG Ledesma
 - Alexander Echols
 - Courtney Johnson
