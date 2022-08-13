@@ -42,15 +42,20 @@ Langston - anytime
 Zak - 9AM PST -5 pm can still be reached anytime for emergency through Slack 
 Courtney - anytime MaryGrace - 9-7 pm can still be reached for emergency via Slack
 
-Work Plan: We will be utilizing Trillo boards to keep an eye on. 
+Work Plan: 
+We will be utilizing Trillo boards to keep an eye on. 
 And group meetings in Remo. 
 We will be using Trello and Github as our management.
 
-Schedule practice run: Name = New Ops on the Block. 
+Schedule practice run: 
+Name = New Ops on the Block. 
 Stand up and practice run time = 09:00 - 09:40
 
-Git Process: Components that live on Github SOP’s, README, Code, We will share the repository by use of Github/ git bash/ or VS Code. 
-Our Git flow will be discussed twice daily. Prior to lunch and end of the day. 
+Git Process: 
+Components that live on Github SOP’s, README, Code, 
+We will share the repository by use of Github/ git bash/ or VS Code. 
+Our Git flow will be discussed twice daily. 
+Prior to lunch and end of the day. 
 We will push and pull from our Project_Prep branch. 
 Our PR Review Workflow will require a two-person review. 
 Attempt to merge at end of day Communicate through daily meetings and Trello board
