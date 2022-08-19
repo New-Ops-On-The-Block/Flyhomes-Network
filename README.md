@@ -16,10 +16,7 @@ Our team here at New Ops on the Block were tasked to:
 </ol>
 
 
-Automatically backup User Profile
-Automatically backup OS
-Remote connectivity for VM’s
-Remote connectivity for both Servers
+
 
 ## About the Hackers!
 
